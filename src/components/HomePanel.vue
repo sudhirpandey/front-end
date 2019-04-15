@@ -2,13 +2,13 @@
   <v-container fluid fill-height class="home-panel" style="max-height: 100vh;">
     <v-layout justify-center align-center column pa-5>
       <div class="display-4 font-weight-black black--text text-xs-center">
-        PROD DEMO APP
+        SHOWCASE DEMO APP
       </div>
       <div class="display-4 font-weight-black black--text text-xs-center mb-3">
-        MADE FOR FUN
+        AS POLYGOT MICROSERVCICES
       </div>
       <div class="display-1 font-weight-bold black--text text-xs-center">
-        Finally an app made by glinux, IKEA.
+        shows various metrics and concerns.
       </div>
       <v-btn fab class="mt-5 brown darken-4">
         <v-icon large color="white">expand_more</v-icon>
